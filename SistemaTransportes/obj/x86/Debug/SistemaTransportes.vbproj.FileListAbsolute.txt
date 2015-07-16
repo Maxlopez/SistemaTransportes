@@ -1,30 +1,18 @@
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoUsuario.resources
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.Resources.resources
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbproj.GenerateResource.Cache
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.exe
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.pdb
-D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.xml
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
-<<<<<<< HEAD
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.exe
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.pdb
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.xml
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.dll
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.dll
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.pdb
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.xml
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.pdb
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.xml
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbprojResolveAssemblyReference.cache
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoChofer.resources
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoUsuario.resources
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.Resources.resources
-e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbproj.GenerateResource.Cache
-=======
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.exe
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.pdb
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.xml
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.dll
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.dll
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.pdb
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Entidades.xml
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.pdb
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\Acceso_Datos.xml
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoChofer.resources
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoCiudades.resources
->>>>>>> origin/master
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoUsuario.resources
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbproj.GenerateResource.Cache

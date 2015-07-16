@@ -42,4 +42,8 @@ Public Class frmMantenimientoChofer
             MsgBox("ERROR: " & ex.Message, MsgBoxStyle.Critical)
         End Try
     End Sub
+
+    Private Sub frmMantenimientoChofer_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
