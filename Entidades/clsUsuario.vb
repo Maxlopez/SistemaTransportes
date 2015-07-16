@@ -1,22 +1,22 @@
 ﻿Public Class clsUsuario
-    Private m_nombreUsuario As String
+    Private m_usuario As String
     Private m_nombre As String
     Private m_clave As String
     Private m_rol As String
     Private m_estado As Integer
 
-    Sub New(ByVal nombreUsuario As String, ByVal nombre As String, ByVal clave As String, ByVal rol As String, ByVal estado As Integer)
-        m_nombreUsuario = nombreUsuario
-        m_nombre = nombre
+    Sub New(ByVal usuario As String, ByVal clave As String, ByVal nombre As String, ByVal rol As String, ByVal estado As Integer)
+        m_usuario = usuario
         m_clave = clave
+        m_nombre = nombre
         m_rol = rol
         m_estado = estado
 
     End Sub
 
-    Public ReadOnly Property nombreUsuario As String
+    Public ReadOnly Property usuario As String
         Get
-            Return m_nombreUsuario
+            Return m_usuario
         End Get
     End Property
 

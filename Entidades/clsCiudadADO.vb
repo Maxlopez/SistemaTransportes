@@ -3,19 +3,19 @@ Imports Acceso_Datos
 Imports System.Data
 Imports System.Data.SqlClient
 
-Public Class clsUsuarioADO
-    Public Sub agregar(ByVal obj As clsUsuario)
+Public Class clsCiudadADO
+    Public Sub agregar(ByVal obj As clsCiudad)
         Dim conexion As clsConexion
         Dim cmd As SqlCommand
         Dim sql As String
         Try
-            sql = "Insert into Usuario " &
-                "Values ('" & obj.usuario & "', '" & obj.nombre &
-                "', '" & obj.clave & "', '" & obj.rol & "', " & obj.estado & ")"
+            sql = "Insert into Ciudad " &
+                "Values ('" & obj.nombre & "', '" & obj.direccion & "')"
 
             conexion = New clsConexion
+
             conexion.Conectar()
-            'Creando el comando con la sentencia sql
+            'Creando el cmdo con la sentencia SQL
             cmd = New SqlCommand(sql, conexion.get_Conexion)
             'Ejecutando la sentencia
             cmd.ExecuteNonQuery()
@@ -28,19 +28,18 @@ Public Class clsUsuarioADO
 
     Public Function listado() As ArrayList
         Dim lista As New ArrayList
-        Dim obj As clsUsuario
+        Dim obj As clsCiudad
         Dim conexion As New clsConexion
         Dim cmd As SqlCommand
         Dim dr As SqlDataReader
         Dim sql As String
         Try
-            sql = "Select * from Usuario"
+            sql = "Select * from Ciudad"
             conexion.Conectar()
-            cmd = New SqlCommand(sql, conexion.get_Conexion)
+            cmd = New SqlCommand(sql, conexion.get_Conexion())
             dr = cmd.ExecuteReader
             While dr.Read
-                obj = New clsUsuario(dr("usuario").ToString, dr("nombre").ToString, dr("clave").ToString, dr("rol").ToString,
-                                         CInt(dr("estado")))
+                obj = New clsCiudad(CInt(dr("id").ToString), dr("nombre").ToString, dr("direccion").ToString)
                 lista.Add(obj)
             End While
             conexion.Desconectar()
