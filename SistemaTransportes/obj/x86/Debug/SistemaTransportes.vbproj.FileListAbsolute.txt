@@ -7,6 +7,7 @@ D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
+<<<<<<< HEAD
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
@@ -24,3 +25,6 @@ e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTranspo
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoUsuario.resources
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.Resources.resources
 e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbproj.GenerateResource.Cache
+=======
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoCiudades.resources
+>>>>>>> origin/master
