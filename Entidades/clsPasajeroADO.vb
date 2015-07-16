@@ -13,7 +13,7 @@ Public Class clsPasajeroADO
                 "', '" & obj.apellidoPat & "', '" & obj.apellidoMat & "', '" & obj.telefono & "')"
 
             cn = New clsConexion
-            'Borrar esto
+
             cn.Conectar()
             'Creando el comando con la sentencia SQL
             cmd = New SqlCommand(sql, cn.get_Conexion)
