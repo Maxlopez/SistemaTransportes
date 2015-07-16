@@ -7,3 +7,4 @@ D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
 D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoCiudades.resources
