@@ -1,0 +1,8 @@
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\bin\Debug\Acceso_Datos.dll
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\bin\Debug\Acceso_Datos.pdb
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\bin\Debug\Acceso_Datos.xml
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\obj\Debug\Acceso_Datos.Resources.resources
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\obj\Debug\Acceso_Datos.vbproj.GenerateResource.Cache
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\obj\Debug\Acceso_Datos.dll
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\obj\Debug\Acceso_Datos.xml
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Acceso_Datos\obj\Debug\Acceso_Datos.pdb

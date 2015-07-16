@@ -1,0 +1,12 @@
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Entidades.dll
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Entidades.pdb
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Entidades.xml
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Acceso_Datos.dll
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Acceso_Datos.pdb
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\bin\Debug\Acceso_Datos.xml
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.vbprojResolveAssemblyReference.cache
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.Resources.resources
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.dll
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.xml
+e:\alex\documentos\visual studio 2010\Projects\SistemaTransportes\Entidades\obj\Debug\Entidades.pdb

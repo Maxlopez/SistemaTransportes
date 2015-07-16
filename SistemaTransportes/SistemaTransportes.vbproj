@@ -72,6 +72,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmMantenimientoChofer.Designer.vb">
+      <DependentUpon>frmMantenimientoChofer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoChofer.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMantenimientoUsuario.Designer.vb">
       <DependentUpon>frmMantenimientoUsuario.vb</DependentUpon>
     </Compile>
@@ -95,6 +101,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmMantenimientoChofer.resx">
+      <DependentUpon>frmMantenimientoChofer.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMantenimientoUsuario.resx">
       <DependentUpon>frmMantenimientoUsuario.vb</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +124,12 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.vbproj">
+      <Project>{4F1596FB-7984-4BE7-BE0A-87FF51197473}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
