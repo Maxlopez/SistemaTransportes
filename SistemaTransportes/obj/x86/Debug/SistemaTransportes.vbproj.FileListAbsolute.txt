@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.frmMantenimientoUsuario.resources
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.vbproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.exe
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.pdb
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\bin\Debug\SistemaTransportes.xml
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.exe
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.xml
+D:\Documentos\Visual Studio 2010\Projects\SistemaTransportes\SistemaTransportes\obj\x86\Debug\SistemaTransportes.pdb
