@@ -27,10 +27,10 @@ Partial Class frmMantenimientoCiudades
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.btnNuevo = New System.Windows.Forms.Button()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.txtNombre = New System.Windows.Forms.TextBox()
-        Me.Label2 = New System.Windows.Forms.Label()
         Me.txtDireccion = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtNombre = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.btnRegistrar = New System.Windows.Forms.Button()
         Me.btnModificar = New System.Windows.Forms.Button()
         Me.btnEliminar = New System.Windows.Forms.Button()
@@ -83,21 +83,12 @@ Partial Class frmMantenimientoCiudades
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Datos de la Ciudad"
         '
-        'Label1
+        'txtDireccion
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(16, 36)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(47, 13)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Nombre:"
-        '
-        'txtNombre
-        '
-        Me.txtNombre.Location = New System.Drawing.Point(88, 36)
-        Me.txtNombre.Name = "txtNombre"
-        Me.txtNombre.Size = New System.Drawing.Size(140, 20)
-        Me.txtNombre.TabIndex = 1
+        Me.txtDireccion.Location = New System.Drawing.Point(88, 74)
+        Me.txtDireccion.Name = "txtDireccion"
+        Me.txtDireccion.Size = New System.Drawing.Size(140, 20)
+        Me.txtDireccion.TabIndex = 3
         '
         'Label2
         '
@@ -108,12 +99,21 @@ Partial Class frmMantenimientoCiudades
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Dirección"
         '
-        'txtDireccion
+        'txtNombre
         '
-        Me.txtDireccion.Location = New System.Drawing.Point(88, 74)
-        Me.txtDireccion.Name = "txtDireccion"
-        Me.txtDireccion.Size = New System.Drawing.Size(140, 20)
-        Me.txtDireccion.TabIndex = 3
+        Me.txtNombre.Location = New System.Drawing.Point(88, 36)
+        Me.txtNombre.Name = "txtNombre"
+        Me.txtNombre.Size = New System.Drawing.Size(140, 20)
+        Me.txtNombre.TabIndex = 1
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(16, 36)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(47, 13)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "Nombre:"
         '
         'btnRegistrar
         '
@@ -179,6 +179,7 @@ Partial Class frmMantenimientoCiudades
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.btnNuevo)
         Me.Controls.Add(Me.GroupBox1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmMantenimientoCiudades"
         Me.Text = "Gestión de Ciudades"
         Me.GroupBox1.ResumeLayout(False)

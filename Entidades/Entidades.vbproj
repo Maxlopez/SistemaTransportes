@@ -66,6 +66,8 @@
   <ItemGroup>
     <Compile Include="clsChofer.vb" />
     <Compile Include="clsChoferADO.vb" />
+    <Compile Include="clsCiudad.vb" />
+    <Compile Include="clsCiudadADO.vb" />
     <Compile Include="clsPasajero.vb" />
     <Compile Include="clsPasajeroADO.vb" />
     <Compile Include="clsUsuario.vb" />

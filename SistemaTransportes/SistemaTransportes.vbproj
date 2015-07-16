@@ -84,10 +84,22 @@
     <Compile Include="frmMantenimientoCiudades.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmMantenimientoPasajeros.Designer.vb">
+      <DependentUpon>frmMantenimientoPasajeros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoPasajeros.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMantenimientoUsuario.Designer.vb">
       <DependentUpon>frmMantenimientoUsuario.vb</DependentUpon>
     </Compile>
     <Compile Include="frmMantenimientoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -115,6 +127,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMantenimientoUsuario.resx">
       <DependentUpon>frmMantenimientoUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
