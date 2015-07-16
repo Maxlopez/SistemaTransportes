@@ -72,17 +72,17 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
+
     <Compile Include="frmMantenimientoChofer.Designer.vb">
       <DependentUpon>frmMantenimientoChofer.vb</DependentUpon>
     </Compile>
     <Compile Include="frmMantenimientoChofer.vb">
-=======
+    </Compile>
     <Compile Include="frmMantenimientoCiudades.Designer.vb">
       <DependentUpon>frmMantenimientoCiudades.vb</DependentUpon>
     </Compile>
     <Compile Include="frmMantenimientoCiudades.vb">
->>>>>>> origin/master
+
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMantenimientoUsuario.Designer.vb">
@@ -108,13 +108,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
+
     <EmbeddedResource Include="frmMantenimientoChofer.resx">
       <DependentUpon>frmMantenimientoChofer.vb</DependentUpon>
-=======
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMantenimientoCiudades.resx">
       <DependentUpon>frmMantenimientoCiudades.vb</DependentUpon>
->>>>>>> origin/master
+
     </EmbeddedResource>
     <EmbeddedResource Include="frmMantenimientoUsuario.resx">
       <DependentUpon>frmMantenimientoUsuario.vb</DependentUpon>

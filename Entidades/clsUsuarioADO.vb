@@ -15,7 +15,7 @@ Public Class clsUsuarioADO
 
             cn = New clsConexion
             cn.Conectar()
-            'Creando el comando con la sentencia SQL
+            'Creando el comando con la sentencia sql
             cmd = New SqlCommand(sql, cn.get_Conexion)
             'Ejecutando la sentencia
             cmd.ExecuteNonQuery()
